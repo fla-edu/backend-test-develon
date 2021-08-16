@@ -1,5 +1,5 @@
 ## Project
-This project is a backend test from Develon Group, that aims to expose 3 APIs and check if the results are as expected.
+This project aims to expose 3 APIs and check if the results are as expected.
 
 ## Version
 This project uses TypeScript and NodeJS 12.18.2
@@ -42,8 +42,3 @@ Body: {
 	"values": [1,2,3,1,3,"marco",2,"marco"]
 }
 ```
-
-## Author
-My name is Flávio Eduardo, I'm from Brazil and you can reach me at fla_edu@live.com
-
-Thanks for the opportunity!
