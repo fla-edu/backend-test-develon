@@ -5,7 +5,7 @@ import { NamesUseCase } from "../useCases/names/NamesUseCase"
 
 export class NamesController {
 
-  namesToUpperCaseFirstLetter (request: Request, response: Response): INamesDTO {
+  namesToUpperCaseFirstLetter (request: Request, response: Response): Response<INamesDTO> {
     const { name, surname } = request.query
 
     if (!name) {
