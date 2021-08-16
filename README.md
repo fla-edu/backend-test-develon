@@ -1,10 +1,10 @@
 ## Project
 This project is a backend test from Develon Group, that aims to expose 3 APIs and check if the results are as expected.
 
-# Version
+## Version
 This project uses TypeScript and NodeJS 12.18.2
 
-# Commands
+## Commands
 To run this project, follow these steps:
 
 To install the dependencies:
@@ -17,7 +17,7 @@ To run the project:
 npm run dev
 ```
 
-# Endpoints
+## Endpoints
 These server has 3 endpoints:
 
 1 - Receive parameters "name" and "surname", and return with uppercase first letter:
@@ -43,7 +43,7 @@ Body: {
 }
 ```
 
-# Author
+## Author
 My name is Flávio Eduardo, I'm from Brazil and you can reach me at fla_edu@live.com
 
 Thanks for the opportunity!
